@@ -1,6 +1,6 @@
 # Face-Detection-Recognition
 
-webcame face detection and recognition
+picture/webcame face detection and recognition
 
 libary used:
 
